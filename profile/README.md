@@ -1,12 +1,7 @@
-## Hi there 👋
+# 🌠 Halley - Anomaly Detection Software
 
-<!--
+Welcome to **Halley**, an anomaly detection software developed by the **NORC Lab** at **Amirkabir University of Technology**. Inspired by the 🌟 **Halley comet**, our software aims to provide precise and scalable solutions for detecting anomalies in various types of data. Halley is built with a modular architecture, consisting of multiple components that work together to deliver powerful insights into unusual patterns and behaviors.
 
-**Here are some ideas to get you started:**
+This project is an ongoing effort by our university lab to advance research 🧑‍🔬 and develop practical tools in the field of anomaly detection. Halley can be applied in a wide range of industries, from cybersecurity 🔐 to system monitoring 📊 and beyond.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Stay tuned for more updates as we continue to build and improve Halley 🚀.
